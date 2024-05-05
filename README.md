@@ -1,13 +1,13 @@
-# Chat Bot 🤖
+## Chat Bot 🤖
 
 ## Introduction
 Welcome to Chat Bot! Engage in natural and intuitive chats powered by OpenAI, all within a sleek Next.js 14 framework. Connect with the future of communication today!
 
 ## Features
-- **OpenAI Integration:** Seamlessly integrated OpenAI for natural language processing, enabling intuitive conversations.
-- **Next.js 14:** Built on the latest version of Next.js, ensuring performance and scalability.
-- **Shadcn Styling:** Styled using Shadcn for a modern and aesthetic user interface.
-- **Light and Dark Mode:** Enjoy both light and dark modes for comfortable chatting in any environment.
+- **OpenAI Integration:** Seamlessly integrated OpenAI for natural language processing, enabling intuitive conversations. 🧠
+- **Next.js 14:** Built on the latest version of Next.js, ensuring performance and scalability. 🚀
+- **Shadcn Styling:** Styled using Shadcn for a modern and aesthetic user interface. 🎨
+- **Light and Dark Mode:** Enjoy both light and dark modes for comfortable chatting in any environment. 🌓
 
 ## Getting Started
 1. Clone this repository: `git clone <repository-url>`
@@ -34,5 +34,4 @@ Contributions are welcome! If you have any ideas, bug fixes, or feature requests
 This project is licensed under the MIT License.
 
 ## Author
-[Your Name](https://github.com/WaelTarabishi)
-
+[👨‍💻 Wael Tarabishi](https://github.com/WaelTarabishi)
